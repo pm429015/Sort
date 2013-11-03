@@ -14,11 +14,12 @@ Declare an object and feed an unsorted array ::
 
     sort = Sort(unsorted_array)
     
-Choose a sort method
+Choose a sort method ::
 
 - sort.insertSort()
 - sort.mergesort()
 - sort.quicksort()
 
-Output result
+Output result ::
+
     sort.listprint()
